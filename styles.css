@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Exo2';
-    src: url('../fonts/Exo-BoldItalic.woff2') format('woff2'),
-         url('../fonts/Exo-BoldItalic.woff') format('woff');
+    src: url('../fonts/Exo-ThinItalic.woff2') format('woff2'),
+         url('../fonts/Exo-ThinItalic.woff') format('woff');
 }
 
 body {
