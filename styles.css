@@ -1,1 +1,10 @@
+@font-face {
+    font-family: 'Exo2';
+    src: url('path-to-your-font.woff2') format('woff2'),
+         url('path-to-your-font.woff') format('woff');
+}
+
+body {
+    font-family: 'Exo2', fallbackFont, sans-serif;
+}
 
